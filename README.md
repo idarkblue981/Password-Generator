@@ -5,7 +5,7 @@ This is a simple password generator with customizable options. You can quickly g
 ## Features
 
 - Generate passwords with options for:
-  * Length: between 8 and 64 characters
+  * Length: between 6 and 32 characters
   * Numbers: include numbers in the password
   * Uppercase: include uppercase letters in the password
   * Lowercase: include lowercase letters in the password
